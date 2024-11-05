@@ -43,6 +43,9 @@ I'm a passionate and driven IT enthusiast, fresh out of high school and fully de
 
 <div width="100%" align="center"><a href="https://github.com/mohdmishal18/NextStep-Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdmishal18&repo=NextStep-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mohdmishal18/NextStep-Frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mohdmishal18&repo=NextStep-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
+<br clear="both" />
+
+
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
